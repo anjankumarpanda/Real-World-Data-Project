@@ -1,0 +1,7 @@
+REAL-WORLD DATA PROJECT REPORT
+
+1. Laptop has the highest sales.
+2. North region gives maximum profit.
+3. Sales increase with quantity sold.
+4. Data visualization helps identify business trends.
+5. Linear Regression predicts future sales.

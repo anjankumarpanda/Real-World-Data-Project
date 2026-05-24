@@ -1,0 +1,9 @@
+Product,Region,Sales,Profit,Quantity
+Laptop,East,50000,12000,5
+Mobile,West,30000,8000,10
+Tablet,North,20000,5000,7
+Laptop,South,55000,15000,6
+Mobile,East,35000,9000,11
+Tablet,West,25000,6000,8
+Laptop,North,60000,18000,7
+Mobile,South,40000,10000,12
